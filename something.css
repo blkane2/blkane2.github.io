@@ -1,0 +1,10 @@
+#bnasty {
+	border-radius: 100%;
+	border: 5px solid black;
+	margin-left: 500px;
+	margin-right: auto;
+}
+
+body {
+	background-color: #FF6699;
+}

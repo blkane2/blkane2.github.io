@@ -35,3 +35,7 @@ body {
     margin-right: auto;
     clear:both;
 }
+
+#picture img {
+	width:200px;
+}

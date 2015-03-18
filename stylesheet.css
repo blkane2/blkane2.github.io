@@ -23,7 +23,7 @@ body {
 	font-size:0.1em;
 }
 
-#credit a, a:hover, a:visited{
+a, a:hover, a:visited{
 	text-decoration:none;
 	color:black;
 }
